@@ -1,4 +1,5 @@
 package org.example;
 
-public enum Option {
+public enum GameOption {
+    ROCK, PAPER, SCISSORS;
 }
